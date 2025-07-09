@@ -1,2 +1,1 @@
-# MLTestnetFrameworkPlatform
-Advanced MLTestnetFrameworkPlatform project
+.
